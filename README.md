@@ -1,2 +1,3 @@
-# metric_registry
-Dynamic metric registry for VLMHyperBench
+# Metric Registry
+
+Dynamic metric registry for VLMHyperBench.
